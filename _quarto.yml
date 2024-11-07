@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Midlands Decision Support Network"
+  description: "This site has now been moved."
+  navbar:
+    toggle-position: right
+    title: false
+    collapse-below: lg
+    right:
+      - href: "https://www.strategyunitwm.nhs.uk/publications/midlands-analyst-network-and-huddles"
+        text: MDSN Publications
+        aria-label: Publications
+      - href: "https://www.strategyunitwm.nhs.uk/publications/midlands-analyst-network-and-huddles"
+        text: Midlands Analyst Network
+        aria-label: Huddles
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
