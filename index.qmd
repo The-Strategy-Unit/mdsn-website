@@ -2,6 +2,8 @@
 title: "Midlands Decision Support Network"
 ---
 
+<center><a><img src="img/mdsn_logo.png" alt="Midlands Decision Support Network logo" width="300px"/></a></center>
+
 You can find all the fantastic work we have done over at the Strategy Unit site.
 
 Please use the links below to reach our amazing content.

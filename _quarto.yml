@@ -4,7 +4,6 @@ project:
 website:
   title: "Midlands Decision Support Network"
   description: "This site has now been moved."
-  site-url: "https://www.midlandsdecisionsupport.nhs.uk/"
   navbar:
     toggle-position: right
     title: false
