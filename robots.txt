@@ -1,1 +1,1 @@
-Sitemap: https://www.midlandsdecisionsupport.nhs.uk/sitemap.xml
+Sitemap: https://The-Strategy-Unit.github.io/mdsn-website/sitemap.xml
