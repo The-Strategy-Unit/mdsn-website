@@ -1,8 +1,20 @@
 ---
-title: "Page Not Found"
+title: ""
 ---
 
-# This page has been removed
+<center><a><img src="img/mdsn_logo.png" alt="Midlands Decision Support Network" width="1000px"/></a></center>
 
-Redirections to some of the Midlands Analyst Decision Network content can be found on the [homepage](/).
+</br>
 
+<center><a>This site has now been moved.
+
+You can find all the fantastic work we have done over at [The Strategy Unit](https://www.strategyunitwm.nhs.uk/) site.
+
+Please use the links to reach our amazing content.
+
+
+::: hero-buttons
+[MDSN publications](https://www.strategyunitwm.nhs.uk/our-work?f%5B0%5D=topic%3A297){.btn .btn-lg .btn-primary role="button"} [Midlands Analyst Network](https://www.strategyunitwm.nhs.uk/publications/midlands-analyst-network-and-huddles){.btn .btn-lg .btn-primary role="button"}
+:::
+
+If you have any further questions or issues, please contact us at [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net)</a></center>

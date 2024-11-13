@@ -1,12 +1,20 @@
 ---
-title: "Midlands Decision Support Network"
+title: ""
 ---
 
-<center><a><img src="img/mdsn_logo.png" alt="Midlands Decision Support Network logo" width="300px"/></a></center>
+<center><a><img src="img/mdsn_logo.png" alt="Midlands Decision Support Network" width="750px"/></a></center>
 
-You can find all the fantastic work we have done over at the Strategy Unit site.
+</br>
+
+<center><a>This site has now been moved.
+
+You can find all the fantastic work we have done over at  [The Strategy Unit](https://www.strategyunitwm.nhs.uk/) site.
 
 Please use the links to reach our amazing content.
 
-If you have any further questions or issues, please contact us at [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net)
 
+::: hero-buttons
+[MDSN publications](https://www.strategyunitwm.nhs.uk/our-work?f%5B0%5D=topic%3A297){.btn .btn-lg .btn-primary role="button"} [Midlands Analyst Network](https://www.strategyunitwm.nhs.uk/publications/midlands-analyst-network-and-huddles){.btn .btn-lg .btn-primary role="button"}
+:::
+
+If you have any further questions or issues, please contact us at [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net)</a></center>
